@@ -1,7 +1,4 @@
-# from copyreg import pickle
 
-
-# from crypt import methods
 import pickle
 from flask import Flask,render_template,request,app,url_for,jsonify
 import numpy as np
