@@ -14,3 +14,6 @@ create a new environemnt
 conda create -p venv python==3.7 -y
 
 '''
+
+app link :- https://boston-house-pricing-applr.herokuapp.com/
+
